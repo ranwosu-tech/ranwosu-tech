@@ -1,7 +1,9 @@
 ## Hi there 👋
 ## Rebecca Nwosu
 
-Recent graduate with a Master’s degree in Mathematics (Statistics & Data Analytics). Focused on data analytics, forecasting, and applied machine learning, with experience delivering stakeholder-ready insights from real-world datasets.
+## Rebecca Nwosu
+
+Data analytics and operations professional focused on turning data into clear insights through exploratory analysis, visualization, and forecasting.
 
 **Core tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | R | SQL | Excel | Power BI (learning)
 
