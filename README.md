@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Rebecca Nwosu
 
 Data analytics and operations professional focused on turning data into clear insights through exploratory analysis, visualization, and forecasting.
 
